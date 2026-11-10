@@ -4,7 +4,7 @@
 
 - **Họ và tên:** Phạm Lê Duy Bình
 - **Mã sinh viên:** 23t1020633
-- **Lớp:** [Điền tên lớp]
+- **Lớp:** TIN4063.001.
 - **Ngành:** Kỹ thuật phần mềm
 
 ## Bài 1.1 – Vì sao tôi muốn học phần mềm mã nguồn mở?
